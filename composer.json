@@ -1,0 +1,17 @@
+{
+    "name": "vitexsoftware/flexibee-mbank",
+    "description": "mBank importer tool for FlexiBee",
+    "type": "project",
+    "require": {
+        "spoje.net/flexipeehp": "dev-master",
+        "vitexsoftware/mbank": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cybervitexus",
+            "email": "info@vitexsoftware.cz"
+        }
+    ],
+    "minimum-stability": "dev"
+}
